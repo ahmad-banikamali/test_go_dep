@@ -3,6 +3,6 @@ package goddir
 import "fmt"
 
 
-func hihi(){
+func Hihi(){
 	fmt.Print("hihi")
 }
