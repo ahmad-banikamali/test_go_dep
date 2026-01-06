@@ -1,3 +1,3 @@
-module thisismypackage
+module github.com/ahmad-banikamali/test_go_dep
 
-go 1.24.5
+go 1.21
